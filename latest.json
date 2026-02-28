@@ -1,1 +1,4 @@
-0.2
+{
+  "version": "0.1",
+  "installer": "https://yourdomain.com/FishTankFrenzySetup.exe"
+}
